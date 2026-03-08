@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Akash Goyal 👋
 
-<!--
-**Akashgoyal55/Akashgoyal55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in Computer Science at San Francisco State University, Class of 2026  
+💼 Previous Software Engineering Intern at Dell Technologies  
+🚀 Seeking full-time Software Engineering opportunities  
 
-Here are some ideas to get you started:
+## About Me
+I’m a Computer Science student passionate about building scalable software and solving real-world problems.  
+I enjoy working on backend, full-stack, and systems-focused projects, and I’m always looking to learn through hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Currently Working On
+- Building software projects in Java, Python, and JavaScript
+- Strengthening my skills in backend and full-stack development
+- Preparing for full-time Software Engineering roles
+
+## Tech Stack
+**Languages:** Java, Python, JavaScript, C++, SQL  
+**Frameworks:** React, Node.js, Express, Spring Boot  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code, Linux
+
+## Featured Interests
+- Backend Engineering
+- Full-Stack Development
+- Systems Programming
+- Scalable Software Design
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/akashgoyal55/ 
+- Email: akashgoyalak55@gmail.com
+
+---
+⭐ Check out my repositories to see the projects I’ve been working on.
